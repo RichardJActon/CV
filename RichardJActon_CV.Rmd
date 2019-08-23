@@ -1,0 +1,208 @@
+---
+title: "Richard James Acton - Curriculum Vitae"
+author: "Richard James Acton"
+output: 
+  pagedown::html_resume:
+    self_contained: true
+---
+
+Aside
+===============================================================
+
+Contact Info {#contact}
+---------------------------------------------------------------
+
+- <i class = "fa fa-envelope"></i> richardjacton@gmail.com
+- <i class = "fa fa-github"></i> [github.com/richardjacton](https://github.com/richardjacton)
+- <i class = "fa fa-orcid"></i> [0000-0002-2574-9611](https://orcid.org/0000-0002-2574-9611)
+
+---
+
+Main
+===============================================================
+
+
+Richard J. Acton {#title}
+---------------------------------------------------------------
+
+### Currently Searching for a position in research software development
+
+### Professional Interests:
+
+- Ageing Biology
+- Epigenetics
+- Adademic Software Development
+
+Education {data-icon=graduation-cap data-concise=true}
+---------------------------------------------------------------
+
+### MRC PhD Studentship
+
+Epigenomics of Human Ageing
+
+University of Southampton
+
+2019 - 2016-09
+
+Including examination of changes in tRNA gene methylation with Age and performing EWAS for Bone health outcomes.
+
+*Supervisor:* Dr. Chris Bell C.G.Bell@soton.ac.uk
+
+### MSc - Bioinformatics and Systems biology (Distinction)
+
+*Project:* Differential Expression of circRNAs in daf-2 and daf-2/16 mutant C. elegans Neurons.
+
+Birkbeck University of London
+
+2016-07 - 2015-09
+
+*Supervisor:* Irilenia Nobeli i.nobeli@mail.cryst.bbk.ac.uk
+
+::: aside
+
+### Programming & Bioinformatic Skills
+
+ 
+
+| | |
+|-|-:|
+| R          |  ●●●●○ |
+| *Linux*    |  ●●●●○ |
+| Perl5/6    |  ●●●○○ |
+| Bash       |  ●●○○○ |
+| Python     |  ●○○○○ |
+| SQL        |  ●○○○○ |
+| HTML       |  ●○○○○ |
+| CSS        |  ●○○○○ |
+| javascript |  ●○○○○ |
+| PHP        |  ●○○○○ |
+
+Automated unit testing and continious integration for R packages.
+
+Basic Shiny app development for interactive data exploration and visualisation.
+
+Use of High Performance Computing Clusters for 'Big Data' analysis, Experience with SLURM, PBS/TORQUE schedulers and the use of `future.batchtools` R package for R processing on HPCs.
+
+:::
+
+### MSci - Biochemistry and Genetics (1st Hons)
+
+Undergraduate Degree
+
+University of Nottingham
+
+2015-07 - 2011-09 
+
+#### Research Projects During this period:
+
+- __2015__ CRISPR based KO and screens of B methylase in the N6-methyladensine RNA modification system in Arabidopsis. *(Supervisor: Dr. Rupert Fray rupert.fray@nottingham.ac.uk)*
+- __2014__ BBSRC REP Summer project (See [Grants](#grants)).
+- __2013__ Interactions of PilZ proteins of the Cyclic-dimeric-3’→5’-Guanosine Mono Phosphate (c-di-GMP) signalling system in Bdellovibrio bacteriovorus. *(Supervisors Prof. Liz Sockett liz.sockett@nottingham.ac.uk)*
+- __2012__ Summer project Identifying possible chlamydial effector protein genes and expressing in Human cell lines *(Supervisor: Dr. Alan Huett Alan.Huett@nottingham.ac.uk)*
+
+### A-levels
+
+Further education
+
+The Sixth Form College Farnborough
+
+2011-07 - 2009-09
+
+| __Subject__          | __Grade__ |
+|:---------------------|:----------|
+| Biology (A2)         | A         |
+| Chemistry (A2)       | A         |
+| Physics (A2)         | A         |
+| Maths (A2)           | B         |
+| Economics (AS)       | A         |
+| General Studies (A2) | B         |
+
+### GCSEs
+
+Secondary School
+
+Frensham Heights School
+
+2009-07 - 2005-09
+
+| __Subject__        | __Grade__ |
+|:-------------------|:----------|
+| Double Science     | (A\*)A\*  |
+| Maths              | A\*       |
+| ICT                | A\*       |
+| French             | A\*       |
+| Photography        | A\*       |
+| Design Tech(RM)    | A\*       |
+| Art and Design 3D  | A\*       |
+| Geography          | A\*       |
+| English            | A         |
+| English Literature | B         |
+
+(Photography taken as an extra-curricular in 2007, French taken 1 year early in 2008)
+
+::: aside
+
+---
+
+###  'Wet' Lab Skills
+
+Molecular cloning (Multiple Techniques), DNA and RNA extraction and purification, PCR, Acrylamide and agarose gel electrophoresis, Basic chromatographic protein purification and hanging drop vapour diffusion crystallisation, Basic cell culture with transfection, staining and light microscopy.
+
+:::
+
+### Early life Education
+
+Primary Schooling
+
+UK, US, UK, CH
+
+2005 - 1996
+
+- __2003 - 2005__ École Internationale de Genève (La Grande Boissière campus), *(Geneva, Switzerland)*
+- __2000 - 2003__ Cheddington Combined School *(UK)*
+- __1999 – 2000__ Osgood Elementary *(Massachusetts, USA)*
+- __1997-1999__ Cohasset Montessori *(Massachusetts, USA)*
+- __1996-1997__ Bagshot Montessori *(UK)*
+
+Publications & Presentations {data-icon=file}
+-------------------------------------------------------------------------------
+
+#### Publications
+
+- __Obligatory and facilitative allelic variation in the DNA methylome within common disease-associated loci__, Nature Communications *(2018)* DOI: [10.1038/s41467-017-01586-1](https://doi.org/10.1038/s41467-017-01586-1) (journal-article)
+- __Cancer detection and tissue of origin determination with novel annotation and scoring of cell-free methylated DNA__, AME Medical Journal *(2017)* DOI: [10.21037/amj.2017.08.02](http://amj.amegroups.com/article/view/3978/4686) (Comment)
+
+#### Presentations
+
+- __(2019-01-16:17 - Advances at the interface between metabolism and epigenetics)__ *Poster Presentation*, Specific Isoacceptor and Isodecoder tRNA Genes Exhibit Increased DNA Methylation with Age.
+- __(2018-11-21 – Institute of Developmental Sciences Review)__ *Oral Presentation*, Ageing-Associated DNA Hypermethylation in tRNA genetic loci.
+- __(2018-01-31:02-02 - Healthy Ageing: From Molecules to Organisms)__ *Lightning talk & Poster Presentation*, Specific Isoacceptor and Isodecoder tRNA Genes Exhibit Increased DNA Methylation with Age.
+- __(2017-11-14:17 - Epigenomics of Common Disease)__ *Poster Presentation* – 1st Poster Prize, Specific Isoacceptor and Isodecoder tRNA Genes Exhibit Increased DNA Methylation with Age.
+- __(2017-11-08 - Institute of developmental sciences open day)__ *Poster Presentation*, Specific Isoacceptor and Isodecoder tRNA Genes Exhibit Increased DNA Methylation with Age.
+
+Conferences, Meeting & Workshops {data-icon=file}
+-------------------------------------------------------------------------------
+
+- __2019-08-20__ R Package development with Hadley Wickham *(Southampton)*
+- __2019-08-21__ Boosting your productivity using Tidyverse with Hadley Wickham *(Southampton)*
+- __2017-11-29__ QMUL, London Epigenetic Club meeting
+- __2017-06-05:07__ Epigenetic Epidemiology Short Course *(University of Bristol)*
+- __2017-03-08:10__ Clinical Epigenetics Society (CLEPSO) meeting *(Düsseldorf)*
+- __2017-03-03__ London Epigenetics Club / London Chromatin Club joint meeting on Epigenetics and Metabolism
+- __2016-11-25__ Research Data management Workshop *(Southampton)*
+- __2016-11-16__ Galton institute conference *(London)*
+- __2016-11-01:04__ Epigenomics of Common Diseases *(Cambridge)*
+
+Grants {data-icon=file}
+-------------------------------------------------------------------------------
+### BBSRC – Research Experience Placement grant
+
+*Project:* Deletion, 2-hybrid vector creation and crystallography of the Bdellovibrio bacteriovorus Bd1483 gene.
+
+Universities of Nottingham Birmingham
+
+2014-08 - 2014-06 
+
+*Supervisors:* Professor Liz Sockett liz.sockett@nottingham.ac.uk, Dr. Andy Lovering a.lovering@bham.ac.uk
+
+
