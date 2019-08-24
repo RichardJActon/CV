@@ -209,3 +209,10 @@ Universities of Nottingham Birmingham
 *Supervisors:* Professor Liz Sockett liz.sockett@nottingham.ac.uk, Dr. Andy Lovering a.lovering@bham.ac.uk
 
 
+::: aside
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+:::
