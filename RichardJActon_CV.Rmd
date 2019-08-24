@@ -63,7 +63,7 @@ Birkbeck University of London
 
 ::: aside
 
-### Programming & Bioinformatic Skills
+### Programming & Bioinformatic Skills[*](#footnotes)
 
  
 
@@ -100,7 +100,7 @@ University of Nottingham
 
 - __2015__ CRISPR based KO and screens of B methylase in the N6-methyladensine RNA modification system in Arabidopsis. *(Supervisor: Dr. Rupert Fray rupert.fray@nottingham.ac.uk)*
 - __2014__ BBSRC REP Summer project (See [Grants](#grants)).
-- __2013__ Interactions of PilZ proteins of the Cyclic-dimeric-3’→5’-Guanosine Mono Phosphate (c-di-GMP) signalling system in Bdellovibrio bacteriovorus. *(Supervisors Prof. Liz Sockett liz.sockett@nottingham.ac.uk)*
+- __2013__ Interactions of PilZ proteins of the Cyclic-dimeric-3’→5’-Guanosine Mono Phosphate (c-di-GMP) signalling system in Bdellovibrio bacteriovorus. *(Supervisor: Prof. Liz Sockett liz.sockett@nottingham.ac.uk)*
 - __2012__ Summer project Identifying possible chlamydial effector protein genes and expressing in Human cell lines *(Supervisor: Dr. Alan Huett Alan.Huett@nottingham.ac.uk)*
 
 ### A-levels
@@ -208,6 +208,10 @@ Universities of Nottingham Birmingham
 
 *Supervisors:* Professor Liz Sockett liz.sockett@nottingham.ac.uk, Dr. Andy Lovering a.lovering@bham.ac.uk
 
+Footnotes
+-------------------------------------------------------------------------------
+
+Scoring system* - A subjective assessment of my own skill level. 5 is ~ daily use of the language, extensive knowledge of its ecosystem as well as deep knowledge of its structure and experience of developing production Apps in that language. 1 is very occational use with heavy reliance of reference material but with at least one real world task such as creating a website or pipline accomplished using that tool.
 
 ::: aside
 

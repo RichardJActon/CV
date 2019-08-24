@@ -9,3 +9,5 @@
 
 [Direct HTML
 link](https://richardjacton.github.io/CV/RichardJActon_CV.html)
+
+If you spot any typos shoot me a PR ;)
