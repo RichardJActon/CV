@@ -4,6 +4,9 @@ author: "Richard James Acton"
 output: 
   pagedown::html_resume:
     self_contained: true
+    css:
+    - resume
+    - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
 ---
 
 Aside
@@ -14,7 +17,7 @@ Contact Info {#contact}
 
 - <i class = "fa fa-envelope"></i> richardjacton@gmail.com
 - <i class = "fa fa-github"></i> [github.com/richardjacton](https://github.com/richardjacton)
-- <i class = "fa fa-orcid"></i> [0000-0002-2574-9611](https://orcid.org/0000-0002-2574-9611)
+- <i class = "ai ai-orcid"></i> [0000-0002-2574-9611](https://orcid.org/0000-0002-2574-9611)
 
 ---
 
