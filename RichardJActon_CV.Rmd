@@ -214,7 +214,7 @@ Universities of Nottingham Birmingham
 Footnotes {data-icon=sticky-note}
 -------------------------------------------------------------------------------
 
-Scoring system* - A subjective assessment of my own skill level. __5__ is ~ daily use of the language, extensive knowledge of its ecosystem as well as deep knowledge of its structure and experience of developing production apps in that language. __1__ is occational use with heavy reliance of reference material but with at least one real world task such as creating a website or pipline accomplished using that tool.
+Scoring system* - A subjective assessment of my own skill level. __5__ is ~ daily use of the language, extensive knowledge of its ecosystem as well as deep knowledge of its structure and experience of developing production apps in that language. __1__ is occasional use with heavy reliance of reference material but with at least one real world task such as creating a website or pipline accomplished using that tool.
 
 ::: aside
 
