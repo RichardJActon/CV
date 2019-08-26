@@ -52,7 +52,7 @@ University of Southampton
 
 Including examination of changes in tRNA gene methylation with Age and performing EWAS for Bone health outcomes.
 
-*Supervisor:* Dr. Chris Bell C.G.Bell@soton.ac.uk
+*Supervisor:* Dr. Chris Bell c.bell@qmul.ac.uk
 
 ### MSc - Bioinformatics and Systems biology (Distinction)
 
@@ -72,22 +72,22 @@ Birkbeck University of London
 
 | | |
 |-|-:|
-| R          |  ●●●●○ |
-| *Linux*    |  ●●●●○ |
-| Perl5/6    |  ●●●○○ |
-| Bash       |  ●●○○○ |
-| Python     |  ●○○○○ |
-| SQL        |  ●○○○○ |
-| HTML       |  ●○○○○ |
-| CSS        |  ●○○○○ |
-| javascript |  ●○○○○ |
-| PHP        |  ●○○○○ |
+| R           |  ●●●●○ |
+| Perl5/6     |  ●●●○○ |
+| Bash        |  ●●○○○ |
+| Python      |  ●○○○○ |
+| SQL         |  ●○○○○ |
+| HTML        |  ●○○○○ |
+| CSS         |  ●○○○○ |
+| javascript  |  ●○○○○ |
+| PHP         |  ●○○○○ |
+| *Linux Use* |  ●●●●○ |
 
-Automated unit testing and continious integration for R packages.
+Automated unit testing and continuous integration for R packages.
 
 Basic Shiny app development for interactive data exploration and visualisation.
 
-Use of High Performance Computing Clusters for 'Big Data' analysis, Experience with SLURM, PBS/TORQUE schedulers and the use of `future.batchtools` R package for R processing on HPCs.
+Use of High Performance Computing Clusters for 'Big Data' analysis, Experience with SLURM, PBS/TORQUE schedulers and the use of the `future.batchtools` R package for R processing on HPCs.
 
 :::
 
@@ -214,7 +214,7 @@ Universities of Nottingham Birmingham
 Footnotes {data-icon=sticky-note}
 -------------------------------------------------------------------------------
 
-Scoring system* - A subjective assessment of my own skill level. 5 is ~ daily use of the language, extensive knowledge of its ecosystem as well as deep knowledge of its structure and experience of developing production Apps in that language. 1 is very occational use with heavy reliance of reference material but with at least one real world task such as creating a website or pipline accomplished using that tool.
+Scoring system* - A subjective assessment of my own skill level. __5__ is ~ daily use of the language, extensive knowledge of its ecosystem as well as deep knowledge of its structure and experience of developing production apps in that language. __1__ is occational use with heavy reliance of reference material but with at least one real world task such as creating a website or pipline accomplished using that tool.
 
 ::: aside
 
