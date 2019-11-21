@@ -31,8 +31,6 @@ Main
 Richard J. Acton {#title}
 ---------------------------------------------------------------
 
-### Currently Searching for a position in research software development
-
 ### Professional Interests:
 
 - Ageing Biology
