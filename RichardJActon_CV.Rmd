@@ -24,6 +24,10 @@ Contact Info <i class = "fa fa-address-book-o"></i>{#contact}
 - <i class = "fa fa-calendar"></i> __DOB:__ 1992-10-30
 - <i class = "fa fa-globe"></i> __POB:__ Scotland – UK
 
+```{r, echo=FALSE, fig.width=2, fig.height=2, fig.align='center'}
+plot(qrcode::qr_code("https://richardjacton.github.io/about/"))
+```
+
 Main
 ===============================================================
 
@@ -33,9 +37,28 @@ Richard J. Acton {#title}
 
 ### Professional Interests:
 
+- Academic Software Development
+- Reproducible Computational Analysis
 - Ageing Biology
 - Epigenetics
-- Adademic Software Development
+
+
+Employment {data-icon=fa-building data-concise=true}
+---------------------------------------------------------------
+
+### CECAD
+
+Post-Doctoral Researcher & Bioinformatician (Schumacher Lab / Bioinformatics Core)
+
+Cologne Excellence Cluster on Cellular Stress Responses in Aging Associated Diseases: Cologne, North Rhine-Westphalia, DE
+
+present - 2020
+
+*PI* Prof. Dr. Björn Schumacher bjoern.schumacher@uni-koeln.de
+
+*facility manager* (present - 2021-06) Prof. Dr. Andreas Beyer andreas.beyer@uni-koeln.de
+
+*facility manager* (2021-06 - ) Prof. Dr. Alexander Dilthey Alexander.Dilthey@med.uni-duesseldorf.de
 
 Education {data-icon=graduation-cap data-concise=true}
 ---------------------------------------------------------------
@@ -46,7 +69,7 @@ Epigenomics of Human Ageing
 
 University of Southampton
 
-2019 - 2016-09
+2020 - 2016-09
 
 Including examination of changes in tRNA gene methylation with Age and performing EWAS for Bone health outcomes.
 
@@ -62,33 +85,6 @@ Birkbeck University of London
 
 *Supervisor:* Irilenia Nobeli i.nobeli@mail.cryst.bbk.ac.uk
 
-::: aside
-
-### <i class = "fa fa-laptop"></i> Programming & Bioinformatic Skills[*](#footnotes)
-
- 
-
-| | |
-|-|-:|
-| R           |  ●●●●○ |
-| Perl5/6     |  ●●●○○ |
-| Bash        |  ●●○○○ |
-| Python      |  ●○○○○ |
-| SQL         |  ●○○○○ |
-| HTML        |  ●○○○○ |
-| CSS         |  ●○○○○ |
-| javascript  |  ●○○○○ |
-| PHP         |  ●○○○○ |
-| *Linux Use* |  ●●●●○ |
-
-Automated unit testing and continuous integration for R packages.
-
-Basic Shiny app development for interactive data exploration and visualisation.
-
-Use of High Performance Computing Clusters for 'Big Data' analysis, Experience with SLURM, PBS/TORQUE schedulers and the use of the `future.batchtools` R package for R processing on HPCs.
-
-:::
-
 ### MSci - Biochemistry and Genetics (1st Hons)
 
 Undergraduate Degree
@@ -96,6 +92,35 @@ Undergraduate Degree
 University of Nottingham
 
 2015-07 - 2011-09 
+
+::: aside
+
+---
+
+<i class = "fa fa-laptop"></i> Programming & Bioinformatic Skills[*](#footnotes)
+
+ 
+
+|                     |         |
+| -                   |       -:|
+| R                   |  ●●●●● |
+| nextflow            |  ●●○○○ |
+| Perl5               |  ●●○○○ |
+| Bash                |  ●●○○○ |
+| Python              |  ●○○○○ |
+| SQL                 |  ●○○○○ |
+| HTML/CSS/javascript |  ●○○○○ |
+| PHP                 |  ●○○○○ |
+| *Linux Use*         |  ●●●●○ |
+
+Proficient wit `git` for source control. Automated unit testing and continuous integration for R packages.
+Shiny app development for interactive data exploration and visualisation.
+Experience with the R [`targets`](https://books.ropensci.org/targets/) pipeline managements tool.
+
+Use of HPC Clusters, Experience with SLURM, PBS/TORQUE schedulers & R HPC backends such as `future.batchtools`.
+Familiar with the use of containerisation technologies such as docker and singularity for reproducible computational environments.
+
+:::
 
 #### Research Projects During this period:
 
@@ -144,16 +169,6 @@ Frensham Heights School
 
 (Photography taken as an extra-curricular in 2007, French taken 1 year early in 2008)
 
-::: aside
-
----
-
-### <i class = "fa fa-flask"></i> 'Wet' Lab Skills
-
-Molecular cloning (Multiple Techniques), DNA and RNA extraction and purification, PCR, Acrylamide and agarose gel electrophoresis, Basic chromatographic protein purification and hanging drop vapour diffusion crystallisation, Basic cell culture with transfection, staining and light microscopy.
-
-:::
-
 ### Early life Education
 
 Primary Schooling
@@ -168,12 +183,25 @@ UK, US, UK, CH
 - __1997-1999__ Cohasset Montessori *(Massachusetts, USA)*
 - __1996-1997__ Bagshot Montessori *(UK)*
 
+::: aside
+
+---
+
+<i class = "fa fa-flask"></i> 'Wet' Lab Skills
+
+*Now Quite Rusty* Molecular cloning (Multiple Techniques), DNA and RNA extraction and purification, PCR, Acrylamide and agarose gel electrophoresis, Basic chromatographic protein purification and hanging drop vapour diffusion crystallisation, Basic cell culture with transfection, staining and light microscopy.
+
+:::
+
 Publications & Presentations {data-icon=file-text}
 -------------------------------------------------------------------------------
 
 #### Publications
 
-- __The Genomic Loci of Specific Human tRNA Genes Exhibit Ageing-Related DNA Hypermethylation__ *(Pre-print 2019)* <i class = "ai ai-doi"></i>[10.1101/870352](https://doi.org/10.1101/870352)
+- __FGF21 modulates mitochondrial stress response in cardiomyocytes only under mild mitochondrial dysfunction__, *in press* Science Advances *(2022)*
+- __Spleen tyrosine kinase mediates innate and adaptive immune crosstalk in SARS-CoV-2 mRNA vaccinatio__, *in press* Journal of Experimental Medicine *(2022)* <i class = "ai ai-doi"></i>[10.1101/2021.08.18.456709](https://doi.org/10.1101/2021.08.18.456709)
+- __Metabolic control of adult neural stem cell self-renewal by the mitochondrial protease YME1L__, *in press* Cell Reports  *(pre-print 2021)* <i class = "ai ai-doi"></i>[10.1101/2021.08.18.456709](https://doi.org/10.1101/2021.08.18.456709)
+- *[First Author]* __The Genomic Loci of Specific Human tRNA Genes Exhibit Ageing-Related DNA Hypermethylation__, Nature Communications *(2021)* <i class = "ai ai-doi"></i>[10.1038/s41467-021-22639-6](https://doi.org/10.1038/s41467-021-22639-6)
 - __Obligatory and facilitative allelic variation in the DNA methylome within common disease-associated loci__, Nature Communications *(2018)* <i class = "ai ai-doi"></i>[10.1038/s41467-017-01586-1](https://doi.org/10.1038/s41467-017-01586-1) (journal-article)
 - __Cancer detection and tissue of origin determination with novel annotation and scoring of cell-free methylated DNA__, AME Medical Journal *(2017)* <i class = "ai ai-doi"></i>[10.21037/amj.2017.08.02](http://amj.amegroups.com/article/view/3978/4686) (Comment)
 
