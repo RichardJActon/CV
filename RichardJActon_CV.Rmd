@@ -199,7 +199,7 @@ Publications & Presentations {data-icon=file-text}
 #### Publications
 
 - __FGF21 modulates mitochondrial stress response in cardiomyocytes only under mild mitochondrial dysfunction__, *in press* Science Advances *(2022)*
-- __Spleen tyrosine kinase mediates innate and adaptive immune crosstalk in SARS-CoV-2 mRNA vaccinatio__, *in press* Journal of Experimental Medicine *(2022)* <i class = "ai ai-doi"></i>[10.1101/2021.08.18.456709](https://doi.org/10.1101/2021.08.18.456709)
+- __Spleen tyrosine kinase mediates innate and adaptive immune crosstalk in SARS-CoV-2 mRNA vaccinatio__, *in press* EMBO Molecular Medicine *(2022)* <i class = "ai ai-doi"></i>[10.1101/2021.08.18.456709](https://doi.org/10.1101/2021.08.18.456709)
 - __Metabolic control of adult neural stem cell self-renewal by the mitochondrial protease YME1L__, *in press* Cell Reports  *(pre-print 2021)* <i class = "ai ai-doi"></i>[10.1101/2021.08.18.456709](https://doi.org/10.1101/2021.08.18.456709)
 - *[First Author]* __The Genomic Loci of Specific Human tRNA Genes Exhibit Ageing-Related DNA Hypermethylation__, Nature Communications *(2021)* <i class = "ai ai-doi"></i>[10.1038/s41467-021-22639-6](https://doi.org/10.1038/s41467-021-22639-6)
 - __Obligatory and facilitative allelic variation in the DNA methylome within common disease-associated loci__, Nature Communications *(2018)* <i class = "ai ai-doi"></i>[10.1038/s41467-017-01586-1](https://doi.org/10.1038/s41467-017-01586-1) (journal-article)
